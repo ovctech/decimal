@@ -4,6 +4,15 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/ovctech/decimal)
 ![GitHub issues](https://img.shields.io/github/issues/ovctech/decimal)
 
+
+# Table of Contents
+
+- [Introduction](#introduction)
+- [How to run](#how-to-run)
+- [Under hood](#under-hood)
+- [Realized functions](#realized-functions)
+
+  
 # Introduction
 
 
@@ -24,12 +33,12 @@ ___
 
 * Ubuntu-like systems:
 ```bash
-sudo apt install make clang-format check lcov
+sudo apt install make build-essential gcc clang-format check lcov
 ```
 
 * MacOS-like systems:
 ```bash
-brew install make clang-format check lcov
+brew install make gcc clang-format check lcov
 ```
 ___
 > Run:
